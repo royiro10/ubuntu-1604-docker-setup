@@ -30,10 +30,11 @@ after running this srcipt you should be facing a terminal.
 this terminal is the ubuntu 16.04 docker container terminal use it as you wish.
 it comes with very basic libaries of ubuntu and I added gcc, make, vim libraries too (cause I think you might need them).
 
-to test everything is working as it should try running:
-`cd /home/shared` \
-`make` \
-`./main`
+to test everything is working as it should try running: 
+
+1. `cd /home/shared`
+2. `make`
+3. `./main`
 
 if all is good you should be prompted with a cute hello world message
 
