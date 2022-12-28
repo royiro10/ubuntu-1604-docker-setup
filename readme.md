@@ -19,8 +19,8 @@ thats all ! all other stuff are taken care of by this repo.
 
 ## Usage
 
-1. clone this repo
-2. run start.bat script.
+1. clone this repo : `git clone https://github.com/royiro10/ubuntu-1604-docker-setup.git`
+2. run start.bat script. `start.bat`
 3. thats it. :sunglasses:
 
 now you should have a folder inside this repo called "shared".
