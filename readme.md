@@ -24,7 +24,7 @@ thats all ! all other stuff are taken care of by this repo.
 3. thats it. :sunglasses:
 
 now you should have a folder inside this repo called "shared".
-all folder & files that will be put in this folder will be avaiable to you inside the ubuntu 16.04 docker container (in simple words -> what you put in "shared" folder will be indise the linux machine you wanted this script to set you up).
+all folder & files that will be put in this folder will be avaiable to you inside the ubuntu 16.04 docker container (in simple words -> what you put in "shared" folder will be inside the linux machine you wanted this script to set you up).
 
 after running this srcipt you should be facing a terminal.
 this terminal is the ubuntu 16.04 docker container terminal use it as you wish.
